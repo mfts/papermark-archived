@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2046px" height="500px" viewBox="0 0 2046 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <text id="text-1" font-family="Inter-Bold, Inter" font-size="280" font-weight="bold" line-spacing="336" letter-spacing="1.3322741" fill="#111827">
+            <tspan x="311" y="271">papermark</tspan>
+        </text>
+        <filter x="-5.0%" y="-22.3%" width="110.0%" height="144.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="66" width="261" height="261"></rect>
+        <filter x="-57.5%" y="-57.5%" width="214.9%" height="214.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="50" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Github-Logo-rect-/-darkmode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(111.000000, 53.000000)">
+            <g id="papermark" fill="#111827" fill-opacity="1">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#111827" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="Group" transform="translate(61.000000, 115.000000)" fill="#FFFFFF">
+                <path d="M0.193221831,212.272673 L0.193221831,2.27287292 L41.9545456,2.27287292 L41.9545456,27.9262576 L43.8437484,27.9262576 C49.5113566,15.4972921 61.7414586,0.284238458 87.2954115,0.284238458 C120.803902,0.284238458 149.141943,26.33535 149.141943,78.8352999 C149.141943,129.943206 121.997083,157.485793 87.1959798,157.485793 C62.5369124,157.485793 49.7102201,143.267057 43.8437484,130.539796 L42.551136,130.539796 L42.551136,212.272673 L0.193221831,212.272673 Z M41.6562505,78.6364365 C41.6562505,105.880729 53.3891938,123.778439 73.7726971,123.778439 C94.5539273,123.778439 105.889144,105.284138 105.889144,78.6364365 C105.889144,52.187598 94.7527907,33.9915927 73.7726971,33.9915927 C53.1903304,33.9915927 41.6562505,51.3921443 41.6562505,78.6364365 Z" id="p" fill-rule="nonzero"></path>
+                <circle id="Oval" cx="72.5" cy="80.5" r="47.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
