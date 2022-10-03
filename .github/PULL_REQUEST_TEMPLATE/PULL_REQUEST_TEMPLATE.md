@@ -2,8 +2,7 @@
 
 Please check if your PR fulfills the following requirements:
 
-- [ ] The commit message follows our contributor
-      [guidelines](https://github.com/mfts/papermark/blob/main/.github/CONTRIBUTING.md).
+- [ ] The commit message follows our contributor [guidelines](https://github.com/mfts/papermark/blob/main/.github/CONTRIBUTING.md).
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Documentation has been added or updated where needed.
 
